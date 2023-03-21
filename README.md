@@ -1,4 +1,4 @@
-# Hello-World
+# Hello-Microverse
 <a name="readme-top"></a>
 
 <!--
@@ -40,7 +40,6 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
 
 - [👥 Authors](#authors)
 
@@ -52,8 +51,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a Simple excersie project to master all of our tools and best practices that we learned about in previous steps. 
-<!-- You will be using this tools in all futur Microverse projects  -->
+**[Set up Hello Microverse Project]** is a Simple excersie project to master all of our tools and best practices that we learned about in previous steps to use them in all Microverse projects.
 
 <!-- AUTHORS -->
 
