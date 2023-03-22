@@ -2,11 +2,7 @@
 
 
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Hello Microverse Project</b></h3>
-
+   <h1><b>Hello Microverse Project</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -17,14 +13,14 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -73,18 +69,9 @@ ___
 ____
 > Describe between 1-3 key features of the application.
 
-- **[Added index.html file]**
-- **[Added style.css file]**
-- **[Added Linter]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-___
-
-- Coming Soon
+- Use linter
+- Use HTML and CSS
+- Use Professional documentation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,30 +84,21 @@ _____
 
 
 
-### Prerequisites
-
-In order to run this project you need:
-
-
-
 ### Setup
 
-Clone this repository to your desired folder:
-
-
-
-### Install
-
- Web Browser
-
+- cd Hello-World
+  git clone https://github.com/abenezer-addisu/Hello-World.git
+  Switch to feature branch 
 
 
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command 
 
-Code Editor
+- Open the index.html file on your web beowser 
+
+- Or in Code editor use a live server to run the project
 
 ### Run tests
 
@@ -128,9 +106,7 @@ To run tests, run the following link:
 Run github link 
 
 
-### Deployment
 
-Comming Soon
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -154,9 +130,9 @@ ____
 ## 🔭 Future Features <a name="future-features"></a>
 ___
 
-- [ ] **[Adding Nav bar]**
-- [ ] **[Adding Footer]**
-- [ ] **[Adding more Styles]**
+- **[ Footer]**
+- **[ Nav bar]**
+- **[ more Styles]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
